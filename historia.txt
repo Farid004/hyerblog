@@ -3,3 +3,5 @@ tengo 20 años y vivo en santo domingo
 estudio en la universidad UNIANDES 
 
 este es una prueba para aprender a usar git 
+
+agrego otra linea para ver que tiro 
