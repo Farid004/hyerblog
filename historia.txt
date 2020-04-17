@@ -1,7 +1,8 @@
-Hola soy Farid Quimbiulco
-tengo 20 años y vivo en santo domingo 
-estudio en la universidad UNIANDES 
+hola soy farid tengo 20 años  y soy de ECUADOR 
+este es la pratica de git es muy divertido 
 
-este es una prueba para aprender a usar git 
+que feliz estoy
 
-agrego otra linea para ver que tiro 
+holi hola
+
+manana nos enfocaremos en su vida laboral
