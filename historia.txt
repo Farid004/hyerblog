@@ -1,4 +1,6 @@
 hola soy farid tengo 20 años  y soy de ECUADOR 
 este es la pratica de git es muy divertido 
 
-que feliz soy 
+que feliz estoy
+
+holi hola
