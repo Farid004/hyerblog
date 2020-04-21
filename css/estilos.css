@@ -1,10 +1,18 @@
 body{
     color: black;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .container{
+
     border: black 3px solid;
-    margin: 10px;
+    margin: 0px 100px;
     padding: 10px;
+}
+.post{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+.container p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
