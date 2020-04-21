@@ -1,10 +1,17 @@
 body{
     color: black;
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 .container{
     border: black 3px solid;
     margin: 10px;
     padding: 10px;
+    text-align: center;
+}
+#cabecera{
+    background-color: blue;
+    color: white;
+    margin: 2px 4px;
+    padding: 3px;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0, 0.5) ;
 }
