@@ -1,6 +1,10 @@
 body{
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-
+}
+.container{
+    border: black 3px solid;
+    margin: 10px;
+    padding: 10px;
 }
