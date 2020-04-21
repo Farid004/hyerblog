@@ -1,11 +1,13 @@
 body{
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .container{
 
     border: black 3px solid;
     margin: 0px 100px;
     padding: 10px;
+    text-align: center;
 }
 .post{
     padding: 10px;
@@ -15,4 +17,10 @@ body{
 .container p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+#cabecera{
+    background-color: blue;
+    color: white;
+    margin: 2px 4px;
+    padding: 3px;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0, 0.5) ;
 }
