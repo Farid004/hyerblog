@@ -1,27 +1,26 @@
 body{
     color: black;
-    
-    font-family: Arial, Helvetica, sans-serif;
-}
-.container{
-
-    border: black 3px solid;
-    margin: 0px 100px;
-    padding: 10px;
     text-align: center;
-}
-.post{
+    font-family: Arial, Helvetica, sans-serif;
+    border: black 3px solid;
     padding: 10px;
-    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+}
+.cabecera{
+    border: 3px solid black;
+
+}
+article {
     text-align: left;
+    color: black;
+    padding: 20px;
+
 }
-.container p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.box-article{
+    box-shadow:0px 0px 10px 1px black ;
+    margin: 10px 20px;
 }
-#cabecera{
-    background-color: blue;
-    color: white;
-    margin: 2px 4px;
-    padding: 3px;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0, 0.5) ;
+img{
+    align-content: center;
+    margin: 10px;
 }
